@@ -1,0 +1,22 @@
+{
+  "wheel_id": 921,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-112",
+  "project": "retaining-walls-perth-seasonal-timing-7bdb29d5c6c0bfcc9fb39b95d",
+  "parent_t1_ref": "retainingwallsperthwa-155",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth seasonal timing",
+  "intended_url": "https://sitesau.github.io/retainingwallsperthwa-112/",
+  "tier": "T2",
+  "writeback_nonce": "c8064a53d92f0d06",
+  "links": [
+    {
+      "target_url": "http://retaining-walls-perth-diy-vs-professional-8fc56315a341c1e092f99.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the retaining walls perth diy vs professional overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
